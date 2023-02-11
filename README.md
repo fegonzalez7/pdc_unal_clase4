@@ -43,8 +43,31 @@ Tenemos algunos casos interesantes:
 
 ### Ejemplos
 
-1. 
+1. Sean P=(a,b) y Q=(c,d) los puntos que definen un segmento de recta.
+Encontrar un segmento de recta perpendicular al anterior, que pase por su punto medio.
 
+<details><summary>Solución</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr bgcolor="#">
+		<th><b>Elementos conocidos</b></th>
+    <th>Los puntos P y Q.</th>
+	</tr>
+	<tr bgcolor="#">
+		<th><b>Elementos desconocidos</b></th>
+    <th>Un segmento de recta.</th>
+	</tr>
+  <tr bgcolor="#">
+		<th><b>Condiciones</b></th>
+    <th>El segmento de recta debe pasar por el punto medio entre P y Q, y debe ser perpendicular a la recta trazada entre P y Q</th>
+	</tr>
+  <tr bgcolor="#">
+		<th><b>Tipo de problema</b></th>
+    <th>Solucionable - Algoritmico: 
+    <br><b>Paso 1: </b> Trazar un círculo con centro en el punto P que pase por el punto Q. 
+    <br><b>Paso 2: </b>Trazar un círculo con centro en el punto Q que pase por el punto P. <br><b>Paso 3: </b>Trazar un segmento de recta entre los puntos de intersección de las circunferencias trazadas en los pasos 1 y 2.</th>
+	</tr>
+</table>
+</p></details><br>
 
 
 
