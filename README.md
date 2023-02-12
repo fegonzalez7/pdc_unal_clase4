@@ -1,6 +1,6 @@
 # Programación de Computadores - UNAL
 ## Problemas y algoritmos
----------------------------
+
 ## Problemas
 
 <table cellspacing="1" bgcolor="">
