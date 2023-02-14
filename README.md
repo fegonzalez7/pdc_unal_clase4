@@ -290,7 +290,7 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id√
 <table cellspacing="3" bgcolor="">
 	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
 		<th>
-			<b>Inicio</b><br>
+			<p align="left"><b>Inicio</b><br></p>
 			<ul style="list-style: none;">
 				<li>PASO 1. Dormir</li>
 				<li>PASO 2. Hacer 1 hasta que suene el despertador (o lo llame la mam√°)</li>
