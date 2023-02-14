@@ -228,3 +228,144 @@ apilamiento.</th>
 
 ----------------------
 ## Algoritmos
+
+Antes de comenzar un retoooooo!
+
+<details><summary>Adivina adivinador</summary><p>
+<div align='center'>
+<figure> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Al-Khwarizmi_portrait.jpg" alt="" width="400" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+</p></details><br>
+
+<details><summary>Albegra de Baldor</summary><p>
+<div align='center'>
+<figure> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Baldor.jpg" alt="" width="400" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+</p></details><br>
+
+<details><summary>Gracias Arabia</summary><p>
+<p align="justify">
+La palabra algoritmo se deriva de Al-khôwarizmi, un matemático y astrónomo del siglo IX
+quien al escribir un tratado sobre manipulación de números y ecuaciones, el Kitab al-jabr
+w'almugabala, usó en gran medida la noción de lo que se conoce hoy como algoritmo.
+</p>
+</p></details><br>
+
+<table cellspacing="1" bgcolor="">
+	<tr bgcolor="#252582">
+		<th><b>Definición</b></th>
+	</tr>
+	<tr bgcolor="#e4e4ed">
+		<td style="color:#141414">Un ALGORITMO es una secuencia finita "bien definida" de tareas "bien definidas", cada una de lascuales se puede realizar con una cantidad finita de recursos. .</td>
+	</tr>
+</table>
+
+**Aclaraciones**<br>
+<p align="justify">
+Se dice que una tarea esta "bien definida", si se <i>saben de manera precisa las acciones requeridas para su realización</i>. Aunque los recursos que debe utilizar cada tarea deben ser finitos estos no están limitados, es decir, si una tarea bien definida requiere una cantidad inmensa (pero finita) de algún recurso para su realización, dicha tarea puede formar parte de un algoritmo. Además, se dice que una secuencia de tareas está "bien definida" si se <i>sabe el orden exacto en que deben ejecutarse</i>.
+</p>
+
+<p align="justify">
+<b>EJECUTAR</b> un algoritmo consiste en realizar las tareas o instrucciones que lo conforman, en el orden especificado y utilizando los recursos disponibles. <i>Hoy se cuenta con máquinas que realizan esta labor, pero se requiere que los algoritmos que ejecutan se escriban en un lenguaje especial, usar esos lenguajes especiales para especificar algoritmos se llama programación de computadores</i>.
+</p>
+
+### Carateristicas de un algoritmo
+ + **Precisión:** Hay un orden preciso en el cual deben ejecutarse las tareas que conforman el algoritmo.
+ + **Determinismo:** Todas las veces que se realicen las tareas o pasos de un
+algoritmo, con las mismas condiciones iniciales, se deben obtener resultados idénticos.
+ + **Finitud:** El algoritmo debe terminar en algún momento y debe usar una cantidad finita de recursos.
+
+### Componentes de un algoritmo
+ + **Datos:** Para almacenar información: datos de entrada, de salida o intermedios.
+ + **Instrucciones:** Las acciones o procesos que el algoritmo realiza sobre los datos.
+ + **Estructuras de control:** Las que determinan el orden en que se ejecutarán las instrucciones del algoritmo.
+
+ ### Ejemplos
+
+ 1. Un estudiante se encuentra en su casa (durmiendo) y debe ir a la universidad (a tomar la clase de programación!), ¿qué debe hacer?
+
+ <details><summary>Solución</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr bgcolor="#">
+		<th>
+			<b>Inicio</b><br>
+			<ul style="list-style: none;">
+				<li>PASO 1. Dormir</li>
+				<li>PASO 2. Hacer 1 hasta que suene el despertador (o lo llame la mamá)</li>
+				<li>PASO 3. Mirar la hora </li>
+				<li>PASO 4. ¿Hay tiempo suficiente? </li>
+				<li>PASO 4.1. Si hay, entonces: </li>
+					<li>PASO 4.1.1. Bañarse </li>
+					<li>PASO 4.1.2. Vestirse. </li>
+					<li>PASO 4.1.3. Desayunar. </li>
+				<li>PASO 4.2. Sino, </li>
+					<li>PASO 4.2.1. Vestirse. </li>
+				<li>PASO 5. Cepillarse los dientes. </li>
+				<li>PASO 6. Despedirse de la mamá y el papá </li>
+				<li>PASO 7. ¿Hay tiempo suficiente? </li>
+					<li>PASO 7.1. Si hay, entonces </li>
+				<li>PASO 7.1.1. Caminar al paradero </li>
+					<li>PASO 7.2. Sino, Correr al paradero. </li>
+				<li>PASO 8. Hasta que pase un bus para la universidad hacer: </li>
+					<li>PASO 8.1. Esperar el bus </li>
+					<li>PASO 8.2. Ver a las demás personas que esperan un bus </li>
+				<li>PASO 9. Tomar el bus. </li>
+				<li>PASO 10. Mientras no llegue a la universidad hacer: </li>
+					<li>PASO 10.1. Seguir en el bus. </li>
+					<li>PASO 10.2. Pelear mentalmente con el conductor </li>
+				<li>PASO 11. Timbrar </li>
+				<li>PASO 12. Bajarse </li>
+				<li>PASO 13. Entrar a la universidad </li>
+			</ul>
+			<b>Fin</b><br>
+		</th>
+	</tr>
+</table>
+</p></details><br>
+
+2. Sean P=(a,b) y Q=(c,d) los puntos extremos de un segmento de recta. Encontrar un segmento de recta perpendicular al anterior, que pase por su punto medio.
+
+<details><summary>Solución</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr bgcolor="#">
+		<th>
+			<b>Inicio</b><br>
+			<ul style="list-style: none;">
+				<li>PASO 0. Sean dos puntos P y Q</li>
+			</ul>
+			<div align='center'>
+				<figure> <img src="https://i.postimg.cc/V65DD4Gg/image.png" alt="" width="250" height="auto"/></br>
+				<figcaption><b></b></figcaption></figure>
+			</div>
+			<ul style="list-style: none;">
+				<li>PASO 1. Trazar una circunferencia con centro en el punto P que pase por el punto Q</li>
+			</ul>
+			<div align='center'>
+				<figure> <img src="https://i.postimg.cc/TPypYDp1/image.png" alt="" width="250" height="auto"/></br>
+				<figcaption><b></b></figcaption></figure>
+			</div>
+			<ul style="list-style: none;">
+				<li>PASO 2. Trazar una circunferencia con centro en el punto Q que pase por el punto P</li>
+			<div align='center'>
+				<figure> <img src="https://i.postimg.cc/HsfNhGXN/image.png" alt="" width="250" height="auto"/></br>
+				<figcaption><b></b></figcaption></figure>
+			</div>
+			<ul style="list-style: none;">
+				<li>PASO 3. Trazar un segmento de recta entre los puntos de intersección de las circunferencias trazadas</li>
+			<div align='center'>
+				<figure> <img src="https://i.postimg.cc/gj4Z6Pd2/image.png" alt="" width="250" height="auto"/></br>
+				<figcaption><b></b></figcaption></figure>
+			</div>
+			<ul style="list-style: none;">
+				<li>PASO 4. El segmento de recta trazada es el buscado</li>
+			<div align='center'>
+				<figure> <img src="https://i.postimg.cc/9f3r0fTB/image.png" alt="" width="250" height="auto"/></br>
+				<figcaption><b></b></figcaption></figure>
+			</div>
+			<b>Fin</b><br>
+		</th>
+	</tr>
+</table>
+</p></details><br>
