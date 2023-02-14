@@ -288,7 +288,7 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id√
 
  <details><summary>Soluci√≥n</summary><p>
 <table cellspacing="3" bgcolor="">
-	<tr bgcolor="#">
+	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
 		<th>
 			<b>Inicio</b><br>
 			<ul style="list-style: none;">
@@ -329,7 +329,7 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id√
 
 <details><summary>Soluci√≥n</summary><p>
 <table cellspacing="3" bgcolor="">
-	<tr bgcolor="#">
+	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
 		<th>
 			<b>Inicio</b><br>
 			<ul style="list-style: none;">
@@ -348,18 +348,20 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id√
 			</div>
 			<ul style="list-style: none;">
 				<li>PASO 2. Trazar una circunferencia con centro en el punto Q que pase por el punto P</li>
+			</ul>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/HsfNhGXN/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
 			<ul style="list-style: none;">
 				<li>PASO 3. Trazar un segmento de recta entre los puntos de intersecci√≥n de las circunferencias trazadas</li>
-			<div align='center'>
+			</ul>	<div align='center'>
 				<figure> <img src="https://i.postimg.cc/gj4Z6Pd2/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
 			<ul style="list-style: none;">
 				<li>PASO 4. El segmento de recta trazada es el buscado</li>
+			</ul>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/9f3r0fTB/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
