@@ -290,36 +290,34 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id�
 <table cellspacing="3" bgcolor="">
 	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
 		<th>
-			<p align="left"><b>Inicio</b><br></p>
-			<ul style="list-style: none;">
-				<li>PASO 1. Dormir</li>
-				<li>PASO 2. Hacer 1 hasta que suene el despertador (o lo llame la mamá)</li>
-				<li>PASO 3. Mirar la hora </li>
-				<li>PASO 4. ¿Hay tiempo suficiente? </li>
-				<li>PASO 4.1. Si hay, entonces: </li>
-					<li>PASO 4.1.1. Bañarse </li>
-					<li>PASO 4.1.2. Vestirse. </li>
-					<li>PASO 4.1.3. Desayunar. </li>
-				<li>PASO 4.2. Sino, </li>
-					<li>PASO 4.2.1. Vestirse. </li>
-				<li>PASO 5. Cepillarse los dientes. </li>
-				<li>PASO 6. Despedirse de la mamá y el papá </li>
-				<li>PASO 7. ¿Hay tiempo suficiente? </li>
-					<li>PASO 7.1. Si hay, entonces </li>
-				<li>PASO 7.1.1. Caminar al paradero </li>
-					<li>PASO 7.2. Sino, Correr al paradero. </li>
-				<li>PASO 8. Hasta que pase un bus para la universidad hacer: </li>
-					<li>PASO 8.1. Esperar el bus </li>
-					<li>PASO 8.2. Ver a las demás personas que esperan un bus </li>
-				<li>PASO 9. Tomar el bus. </li>
-				<li>PASO 10. Mientras no llegue a la universidad hacer: </li>
-					<li>PASO 10.1. Seguir en el bus. </li>
-					<li>PASO 10.2. Pelear mentalmente con el conductor </li>
-				<li>PASO 11. Timbrar </li>
-				<li>PASO 12. Bajarse </li>
-				<li>PASO 13. Entrar a la universidad </li>
-			</ul>
-			<b>Fin</b><br>
+			<p align="left"><b>Inicio</b><br>
+			PASO 1. Dormir<br>
+			PASO 2. Hacer 1 hasta que suene el despertador (o lo llame la mamá)<br>
+			PASO 3. Mirar la hora <br>
+			PASO 4. ¿Hay tiempo suficiente? <br>
+			PASO 4.1. Si hay, entonces: <br>
+				PASO 4.1.1. Bañarse <br>
+				PASO 4.1.2. Vestirse. <br>
+				PASO 4.1.3. Desayunar. <br>
+			PASO 4.2. Sino, <br>
+				PASO 4.2.1. Vestirse. <br>
+			PASO 5. Cepillarse los dientes. <br>
+			PASO 6. Despedirse de la mamá y el papá <br>
+			PASO 7. ¿Hay tiempo suficiente? <br>
+				PASO 7.1. Si hay, entonces <br>
+			PASO 7.1.1. Caminar al paradero <br>
+				PASO 7.2. Sino, Correr al paradero. <br>
+			PASO 8. Hasta que pase un bus para la universidad hacer: <br>
+				PASO 8.1. Esperar el bus <br>
+				PASO 8.2. Ver a las demás personas que esperan un bus <br>
+			PASO 9. Tomar el bus. <br>
+			PASO 10. Mientras no llegue a la universidad hacer: <br>
+				PASO 10.1. Seguir en el bus. <br>
+				PASO 10.2. Pelear mentalmente con el conductor <br>
+			PASO 11. Timbrar <br>
+			PASO 12. Bajarse <br>
+			PASO 13. Entrar a la universidad <br>
+			<b>Fin</b><br></p>
 		</th>
 	</tr>
 </table>
@@ -331,37 +329,28 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id�
 <table cellspacing="3" bgcolor="">
 	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
 		<th>
-			<b>Inicio</b><br>
-			<ul style="list-style: none;">
-				<li>PASO 0. Sean dos puntos P y Q</li>
-			</ul>
+			<p align="left"><b>Inicio</b><br>
+			PASO 0. Sean dos puntos P y Q</p>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/V65DD4Gg/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
-			<ul style="list-style: none;">
-				<li>PASO 1. Trazar una circunferencia con centro en el punto P que pase por el punto Q</li>
-			</ul>
+			<p align="left">PASO 1. Trazar una circunferencia con centro en el punto P que pase por el punto Q</p>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/TPypYDp1/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
-			<ul style="list-style: none;">
-				<li>PASO 2. Trazar una circunferencia con centro en el punto Q que pase por el punto P</li>
-			</ul>
+			<p align="left">PASO 2. Trazar una circunferencia con centro en el punto Q que pase por el punto P</p>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/HsfNhGXN/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
-			<ul style="list-style: none;">
-				<li>PASO 3. Trazar un segmento de recta entre los puntos de intersección de las circunferencias trazadas</li>
+			<p align="left">PASO 3. Trazar un segmento de recta entre los puntos de intersección de las circunferencias trazadas</p>
 			</ul>	<div align='center'>
 				<figure> <img src="https://i.postimg.cc/gj4Z6Pd2/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
 			</div>
-			<ul style="list-style: none;">
-				<li>PASO 4. El segmento de recta trazada es el buscado</li>
-			</ul>
+			<p align="left">PASO 4. El segmento de recta trazada es el buscado</p>
 			<div align='center'>
 				<figure> <img src="https://i.postimg.cc/9f3r0fTB/image.png" alt="" width="250" height="auto"/></br>
 				<figcaption><b></b></figcaption></figure>
@@ -371,3 +360,61 @@ algoritmo, con las mismas condiciones iniciales, se deben obtener resultados id�
 	</tr>
 </table>
 </p></details><br>
+
+3. Encontrar los divisores de un número  natural n.
+
+<details><summary>Solución no tan pro</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
+		<th>
+			<p align="left"><b>Inicio</b><br>
+			PASO 1. Crear una lista de números naturales desde 2 hasta n-1<br>
+			PASO 2. repetir para cada número i de la lista<br>
+				PASO 2.1. Dividir n sobre i <br>
+				PASO 2.2. Si el residuo de la división es cero, i es divisor <br>
+				PASO 2.3. Sino, i no es divisor <br>
+			<b>Fin</b><br></p>
+		</th>
+	</tr>
+</table>
+</p></details><br>
+
+<details><summary>Solución medio pro</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
+		<th>
+			<p align="left"><b>Inicio</b><br>
+			PASO 1. Crear una lista de números naturales desde 2 hasta (n/2)+1<br>
+			PASO 2. repetir para cada número i de la lista<br>
+				PASO 2.1. Dividir n sobre i <br>
+				PASO 2.2. Si el residuo de la división es cero, i es divisor <br>
+				PASO 2.3. Sino, i no es divisor <br>
+			<b>Fin</b><br></p>
+		</th>
+	</tr>
+</table>
+<details><summary>Tip</summary><p>
+Se hace el análsis hasta n/2 porque ningun número mayor a la mitad podrá dividir de forma exacta a n.
+</p></details>
+</p></details><br>
+
+<details><summary>Solución pro - Criba de Erastotenes</summary><p>
+<table cellspacing="3" bgcolor="">
+	<tr style="text-align: left; vertical-align: middle;" bgcolor="#">
+		<th>
+			<p align="left"><b>Inicio</b><br>
+			PASO 1. Crear una lista de números naturales desde 2 hasta (n^0.5)+1<br>
+			PASO 2. repetir para cada número i de la lista<br>
+				PASO 2.1. Dividir n sobre i <br>
+				PASO 2.2. Si el residuo de la división es cero, i es divisor <br>
+				PASO 2.3. Sino, i no es divisor <br>
+			<b>Fin</b><br></p>
+		</th>
+	</tr>
+</table>
+<details><summary>Tip</summary><p>
+En este <a href="https://www.youtube.com/watch?v=9iH8mY3iGLk&ab_channel=ApuntesChelela">vídeo</a> lo explican relativamente bien.
+</p></details>
+</p></details><br>
+
+4. Cómo componer una canción de reggeton (casi me muero haciendo esto, me dio asco de mi mismo, pero los sacrificios por enseñar). --[Código](/cancion.ipynb)--
