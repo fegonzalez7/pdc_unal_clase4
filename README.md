@@ -2,6 +2,14 @@
 ## Problemas y algoritmos
 
 ## Problemas
+<details><summary>Preparense para...</summary><p>
+<div align='center'>
+<figure> <img src="https://i.postimg.cc/g2VtQD9p/image.png" alt="" width="400" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+</p></details><br>
+
+
 
 <table cellspacing="1" bgcolor="">
 	<tr bgcolor="#252582">
@@ -418,3 +426,7 @@ En este <a href="https://www.youtube.com/watch?v=9iH8mY3iGLk&ab_channel=ApuntesC
 </p></details><br>
 
 4. Cómo componer una canción de reggeton (casi me muero haciendo esto, me dio asco de mi mismo, pero los sacrificios por enseñar). --[Código](/cancion.ipynb)--
+
+-----------
+## Reto no. 3
+A partir del algoritmo de identificación de los divisores plantear la serie de pasos para determinar los números primos hasta un natural n. Traeerlo para la clase no. 5 escrito (después de la clase subirlo al canal que se creará en slack para ello).
